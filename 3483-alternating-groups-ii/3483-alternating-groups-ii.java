@@ -3,18 +3,10 @@ class Solution {
        int res=0;
        int left=0;
        int n=colors.length;
-       int newarray[]=new int[n+k-1];
-       for(int i=0;i<n;i++)
+      
+       for(int right=1;right<n+k-1;right++)
        {
-          newarray[i]=colors[i];
-       }
-       for(int i=0;i<k-1;i++)
-       {
-        newarray[n+i]=colors[i];
-       }
-       for(int right=1;right<newarray.length;right++)
-       {
-          if(newarray[right]==newarray[right-1])
+          if(colors[right%n]==colors[(right-1)%n])
           {
              left=right;
           }
