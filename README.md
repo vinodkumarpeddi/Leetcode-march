@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3483-alternating-groups-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
