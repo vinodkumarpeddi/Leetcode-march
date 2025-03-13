@@ -1,34 +1,33 @@
 class Solution {
-    public int countCharacters(String[] words, String chars) {
-        HashMap<Character,Integer> map=new HashMap<>();
-        // int count=0;
-        int len=0;
-        for(char ch:chars.toCharArray())
+    public boolean canform(String s,int counts[])
+    {
+        int c[]=new int [26];
+        for(char ch:s.toCharArray())
         {
-            map.put(ch,map.getOrDefault(ch,0)+1);
-        }
-        for(String word:words)
-        {
-              HashMap<Character,Integer> temp=new HashMap<>(map);
-              boolean isvalid=true;
-            for(char ch:word.toCharArray())
+            c[ch-'a']++;
+            if(c[ch-'a']>counts[ch-'a'])
             {
-               if(temp.getOrDefault(ch,0)>0)
-               {
-                  temp.put(ch,temp.get(ch)-1);
-                  
-               }
-               else
-               {
-                isvalid=false;
-                break;
-               }
+                return false;
             }
-            if(isvalid)
-            {
-                len+=word.length();
-            }
+           
         }
-        return len;
+         return true;
     }
+    public int countCharacters(String[] words, String chars) {
+        int counts[]=new int[26];
+        int res=0;
+        for(int i=0;i<chars.length();i++)
+        {
+            counts[chars.charAt(i)-'a']++;
+        }
+        for(String s:words)
+        {
+            if(canform(s,counts))
+            {
+                res+=s.length();
+            }
+        }
+        return res;
+    }
+
 }
