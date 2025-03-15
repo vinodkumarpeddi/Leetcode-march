@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3483-alternating-groups-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3582-find-indices-of-stable-mountains) |
+| [3639-zero-array-transformation-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
