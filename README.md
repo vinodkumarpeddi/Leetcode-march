@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2610-closest-prime-numbers-in-range) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0008-string-to-integer-atoi) |
+| [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1460-number-of-substrings-containing-all-three-characters) |
