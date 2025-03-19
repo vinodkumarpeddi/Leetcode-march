@@ -12,10 +12,7 @@ class Solution {
                 c++;
             }
         }
-        for(int i=n-2;i<n;i++)
-        {
-            if(nums[i]==0) return -1;
-        }
+        if(nums[n-1]==0 || nums[n-2]==0) return -1;
         return c;
     }
 }
