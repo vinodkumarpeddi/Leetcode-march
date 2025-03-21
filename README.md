@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0461-hamming-distance](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0461-hamming-distance) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
