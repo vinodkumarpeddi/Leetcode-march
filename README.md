@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
