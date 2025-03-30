@@ -5,13 +5,22 @@ class Solution {
         {
             arr[ch-'a']+=1;
         }
-        for(int i=1;i<s.length();i++)
-        {
-            if(arr[s.charAt(i-1)-'a']!=arr[s.charAt(i)-'a'])
-            {
-                return false;
-            }
-        }
+        int freq=0;
+       for(int count:arr)
+       {
+           if(count>0)
+           {
+           if(freq==0)
+           {
+            freq=count;
+           }
+           
+           else if(freq!=count)
+           {
+            return false;
+           }
+           }
+       }
         return true;
     }
 }
