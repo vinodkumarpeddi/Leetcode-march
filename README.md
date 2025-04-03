@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1839-decode-xored-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1839-decode-xored-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3639-zero-array-transformation-i) |
 ## Heap (Priority Queue)
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
