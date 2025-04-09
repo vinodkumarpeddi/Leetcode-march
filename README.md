@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3483-alternating-groups-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3582-find-indices-of-stable-mountains) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
