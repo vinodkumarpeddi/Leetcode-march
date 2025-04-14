@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1656-count-good-triplets](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1656-count-good-triplets) |
 | [1839-decode-xored-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
@@ -196,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
