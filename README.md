@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2998-count-symmetric-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
