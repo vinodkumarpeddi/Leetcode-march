@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2610-closest-prime-numbers-in-range) |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
