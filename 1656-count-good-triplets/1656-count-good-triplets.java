@@ -9,13 +9,13 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             for(int j=i+1;j<n;j++)
-            {
+            {  if(Math.abs(arr[i]-arr[j])>a) continue;
                 for(int k=j+1;k<n;k++)
                 {
-                     int x=Math.abs(arr[i]-arr[j]);
-             int y=Math.abs(arr[j]-arr[k]);
-              int z=Math.abs(arr[i]-arr[k]);
-              if(x<=a && y<=b && z<=c)
+                   
+                if(Math.abs(arr[j]-arr[k])>b) continue;
+             if(Math.abs(arr[i]-arr[k])<=c)
+             
               {
                 count++;
               }
