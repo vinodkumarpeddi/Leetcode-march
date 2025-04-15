@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0557-reverse-words-in-a-string-iii) |
