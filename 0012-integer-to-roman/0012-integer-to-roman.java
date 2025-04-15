@@ -5,10 +5,13 @@ class Solution {
         int[] nums = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
 
         for (int pos = 0; num > 0; pos++) {
-            while (num >= nums[pos]) {
-                roman += romanchar[pos];
-                num -= nums[pos];
-            }
+             int x=num/nums[pos];
+             while(x>0)
+             {
+                roman+=romanchar[pos];
+                x--;
+             }
+             num=num%nums[pos];
         }
 
         return roman;
