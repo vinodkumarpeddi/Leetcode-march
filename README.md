@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0461-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
