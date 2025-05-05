@@ -14,24 +14,11 @@
  * }
  */
 class Solution {
-    private int count=0;
-    public void inorder(TreeNode root)
-    {
-          if(root==null)
-          {
-             return;
-          }
-          inorder(root.left);
-          count++;
-          inorder(root.right);
-    }
     public int countNodes(TreeNode root) {
         if(root==null)
         {
             return 0;
         }
-        inorder(root);
-        return count;
-
+        return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
