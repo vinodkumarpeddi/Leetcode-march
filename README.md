@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1656-count-good-triplets](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1656-count-good-triplets) |
 | [1839-decode-xored-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1839-decode-xored-array) |
+| [2048-build-array-from-permutation](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
+| [2048-build-array-from-permutation](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
