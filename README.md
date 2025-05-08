@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
+| [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
+| [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0461-hamming-distance) |
+| [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1839-decode-xored-array) |
