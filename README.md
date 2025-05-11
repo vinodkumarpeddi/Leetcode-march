@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1293-three-consecutive-odds) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
