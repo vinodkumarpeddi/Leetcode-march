@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
