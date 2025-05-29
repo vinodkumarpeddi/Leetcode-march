@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1073-number-of-enclaves) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1222-remove-covered-intervals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
+| [1222-remove-covered-intervals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1222-remove-covered-intervals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
