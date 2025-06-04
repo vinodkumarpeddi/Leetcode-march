@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
@@ -343,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0871-keys-and-rooms) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
