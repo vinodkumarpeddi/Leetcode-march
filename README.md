@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
