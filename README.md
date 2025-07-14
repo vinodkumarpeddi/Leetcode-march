@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
