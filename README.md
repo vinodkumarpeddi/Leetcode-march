@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0897-prime-palindrome](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0897-prime-palindrome) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
