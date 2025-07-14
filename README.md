@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1222-remove-covered-intervals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1241-decompress-run-length-encoded-list](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1510-find-lucky-integer-in-an-array) |
