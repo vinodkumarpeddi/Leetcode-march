@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0697-degree-of-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0697-degree-of-an-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1460-number-of-substrings-containing-all-three-characters) |
