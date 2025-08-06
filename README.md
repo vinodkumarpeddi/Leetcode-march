@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1073-number-of-enclaves) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0917-boats-to-save-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
+| [0917-boats-to-save-people](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0917-boats-to-save-people) |
 | [1222-remove-covered-intervals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1222-remove-covered-intervals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2704-maximum-difference-by-remapping-a-digit) |
