@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
