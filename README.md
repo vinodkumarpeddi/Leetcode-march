@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0542-01-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0542-01-matrix) |
 | [0697-degree-of-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0724-find-pivot-index) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1036-rotting-oranges) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0542-01-matrix) |
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0733-flood-fill) |
