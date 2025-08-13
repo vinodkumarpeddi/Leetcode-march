@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0897-prime-palindrome](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0897-prime-palindrome) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
