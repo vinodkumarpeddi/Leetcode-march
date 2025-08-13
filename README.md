@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1813-maximum-erasure-value) |
 | [1839-decode-xored-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1839-decode-xored-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2058-concatenation-of-array) |
