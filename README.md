@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2107-find-unique-binary-string) |
 | [2187-vowels-of-all-substrings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2881-split-strings-by-separator](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3194-find-words-containing-character) |
