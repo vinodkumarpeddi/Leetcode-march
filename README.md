@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0897-prime-palindrome](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0897-prime-palindrome) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
