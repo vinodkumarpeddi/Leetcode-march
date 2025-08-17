@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0130-surrounded-regions) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
