@@ -14,20 +14,19 @@
  * }
  */
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
-        return root==null || isSymmetricHelp(root.left,root.right);
-
-    }
-    public boolean isSymmetricHelp(TreeNode left,TreeNode right)
+    public boolean isSymmetricHelp(TreeNode p,TreeNode q)
     {
-        if(left==null || right==null)
+        if(p==null || q==null)
         {
-            return left==right;
+            return p==q;
         }
-        if(left.val!=right.val)
+        return (p.val==q.val) && isSymmetricHelp(p.left,q.right) && isSymmetricHelp(p.right,q.left);
+    }
+    public boolean isSymmetric(TreeNode root) {
+        if(root==null)
         {
-            return false;
+            return true;
         }
-        return isSymmetricHelp(left.left,right.right) && isSymmetricHelp(left.right,right.left);
+        return isSymmetricHelp(root.left,root.right);
     }
 }
