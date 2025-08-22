@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2050-count-good-numbers) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Segment Tree
 |  |
