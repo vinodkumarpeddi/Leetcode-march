@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3582-find-indices-of-stable-mountains) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3639-zero-array-transformation-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0451-sort-characters-by-frequency) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -464,5 +469,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3790-fruits-into-baskets-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
