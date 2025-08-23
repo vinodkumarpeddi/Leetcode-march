@@ -22,31 +22,30 @@ class Solution {
         TreeNode curr=root;
         while(true)
         {
-            if(val<curr.val)
-            {
+              if(val<curr.val)
+              {
                 if(curr.left==null)
                 {
                     curr.left=new TreeNode(val);
                     break;
                 }
-                else
-                {
+                else{
                     curr=curr.left;
                 }
-            }
-            else
-            {
+              }
+              else{
                 if(curr.right==null)
                 {
                     curr.right=new TreeNode(val);
                     break;
                 }
-                else
-                {
+                else{
                     curr=curr.right;
                 }
-            }
+              }
+             
         }
-        return root;
+         return root;
+        
     }
 }
