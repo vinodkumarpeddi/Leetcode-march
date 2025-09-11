@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2881-split-strings-by-separator](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3617-find-the-original-typed-string-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
