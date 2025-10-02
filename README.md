@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3336-water-bottles-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3336-water-bottles-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3336-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
