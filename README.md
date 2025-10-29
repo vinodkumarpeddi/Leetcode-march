@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vinodkumarpeddi/Leetcode-march/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
